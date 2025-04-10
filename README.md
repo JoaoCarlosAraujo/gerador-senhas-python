@@ -20,11 +20,3 @@ Este projeto é um simples e poderoso **Gerador de Senhas Aleatórias** feito em
 
 > Não requer bibliotecas externas como `pyperclip`.
 
----
-
-## 📦 Como usar
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/JoaoCarlosAraujo/gerador-senhas-python.git
